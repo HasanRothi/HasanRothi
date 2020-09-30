@@ -9,3 +9,4 @@
 - 📫 How to reach me: portfolio - rothi.unaux.com |  mail - hasantechnologist@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: play cricket / watch movie
+- Favourite Programming language - Javascript
