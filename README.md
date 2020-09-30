@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate Node/vue.js
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
-- 📫 How to reach me: [website - (rothi.unaux.com)]
+- 📫 How to reach me: portfolio - rothi.unaux.com |  mail - hasantechnologist@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: play cricket / watch movie
