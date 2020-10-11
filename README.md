@@ -6,18 +6,18 @@
 - 👯 I’m looking to collaborate Node/vue.js
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Programming , web / App development.
-- 📫 How to reach me:  [portfolio]( rothi.unaux.com )
+- 📫 How to reach me:  01626919489
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: play cricket / watch movie
 - Favourite Programming language - Javascript
 
 
-🏡 [website][website] **|** 
+🏡 [portfolio][portfolio] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 
-[website]: https://rothi.unaux.com
+[portfolio]: https://rothi.unaux.com
 [instagram]: https://www.instagram.com/hasan_rothi/
 [linkedin]: https://www.linkedin.com/in/md-riad-hasan-sarker-rothi-02289a142/
 
