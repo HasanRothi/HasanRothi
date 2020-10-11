@@ -20,3 +20,6 @@
 [website]: https://rothi.unaux.com
 [instagram]: https://www.instagram.com/hasan_rothi/
 [linkedin]: https://www.linkedin.com/in/md-riad-hasan-sarker-rothi-02289a142/
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=HasanRothi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=60a3bc" />
