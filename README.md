@@ -24,5 +24,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanRothi&theme=radical&hide_langs_below=1&layout=compact" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanRothi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=60a3bc" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanRothi&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=c7ecee" />
 </p>
