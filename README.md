@@ -1,9 +1,9 @@
 ### My name is Md.Riad Hasan Sarker and I'm a full stack software developer!  👋
 
 
-- 🔭 I’m currently working on Vue ,vuetify , Nuxt , Node , Mongodb
-- 🌱 I’m currently learning Nuxt , Redis , GraphQL , vuetify 
-- 👯 I’m looking to collaborate Node/vue.js
+- 🔭 I’m currently working on Express , Mongodb , Graphql , vuetify , Nuxt 
+- 🌱 I’m currently learning TypeScript/AWS 
+- 👯 I’m looking to collaborate Express/Nuxt
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Programming , web / App development also for Roadmap/Guideline.
 - 📫 How to reach me:  01626919489
