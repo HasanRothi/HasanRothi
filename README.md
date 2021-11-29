@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Node , Express , Nestjs, Mongodb , Graphql , vuetify , Tailwind , Nuxt 
 - 🌱 I’m currently learning Golang/TypeScript/AWS 
 - 👯 I’m looking to collaborate Node/Express/NestJs/Nuxt
-- 🤔 I’m looking for help with AWS,Clodflare
+- 🤔 I’m looking for help with AWS,Cloudflare
 - 💬 Ask me about Programming , web / App development also for Roadmap/Guideline.
 - 📫 How to reach me:  01626919489
 - 😄 Pronouns: he/his
