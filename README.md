@@ -1,8 +1,8 @@
 ### My name is Md.Riad Hasan Sarker and I'm a full stack software developer!  👋
 
 
-- 🔭 I’m currently working on Node , Express , Nestjs, Mongodb , Graphql , vuetify , Tailwind , Nuxt , Docker
-- 🌱 I’m currently learning Golang/TypeScript/AWS/DevOps
+- 🔭 I’m currently working on Node , Express , Nestjs, Mongodb , Graphql , Vue , vuetify , Tailwind , Nuxt , Docker , k8s
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate Node/Express/NestJs/Nuxt
 - 🤔 I’m looking for help with AWS,Cloudflare
 - 💬 Ask me about Programming , web / App development also for Roadmap/Guideline.
